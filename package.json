@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:4apaev/bullsandcows.git"
+    "url": "git@github.com:4apaev/BullsAndCows.git"
   },
   "scripts": {
     "start" : "node index"
